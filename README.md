@@ -1,7 +1,7 @@
 # Grid-Movement
 C++ class used to traverse around an xy plane
 
- -drone continues to move around the plane until user stops entering commands or it runs out of fuel (50 steps).
+ -drone continues to move around the plane until user stops entering commands or it runs out of fuel (50 steps). \n
  -accepted user input:  
      f - move forward
      b - move backward
